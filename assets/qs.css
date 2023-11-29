@@ -1,0 +1,25 @@
+/*FONT*/
+
+@font-face {
+    font-family: 'CooperHewitt';
+    src: url(CooperHewitt-Heavy.woff);
+    font-weight: bold;
+}
+
+body {
+	font-family: Roboto;
+	font-size: 14px;
+}
+
+.font-alt {
+	font-family: 'CooperHewitt';
+}
+
+.navbar-brand_ {
+	padding: 0px;
+}
+
+a {
+	color: #d3ad29;
+	font-weight: bold;
+}

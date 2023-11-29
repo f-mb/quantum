@@ -1,0 +1,8 @@
+title: BLCKCHN
+
+plugins:
+  - jekyll-redirect-from
+
+markdown: kramdown
+highlighter: rouge
+gems: [jekyll-paginate]
