@@ -6,10 +6,3 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
-
-defaults:
-  - scope:
-      path: ''
-      type: pages
-    values:
-      permalink: /:title
