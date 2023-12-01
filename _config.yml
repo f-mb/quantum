@@ -1,4 +1,4 @@
-title: BLCKCHN
+title: Quantum & Society
 
 plugins:
   - jekyll-redirect-from
@@ -6,3 +6,10 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 gems: [jekyll-paginate]
+
+defaults:
+  - scope:
+      path: ''
+      type: pages
+    values:
+      permalink: /:title
