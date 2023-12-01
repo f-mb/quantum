@@ -13,6 +13,9 @@ body {
 
 .font-alt {
 	font-family: 'CooperHewitt';
+	/*font-family: 'Roboto Condensed';
+	font-weight: 900 !important;
+	letter-spacing: 0px !important;*/
 }
 
 .navbar-brand_ {
